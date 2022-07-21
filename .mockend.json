@@ -1,69 +1,67 @@
 {
-	"root":[
-		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+	"root": [{
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		},
 		{
-			"Id": "1", 
-			"Author": "name", 
-			"Quote": " ....... ", 
+			"Id": "1",
+			"Author": "name",
+			"Quote": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
-		},
+		}
 	]
 
 }
-
