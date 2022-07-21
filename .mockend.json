@@ -1,14 +1,14 @@
 {
 	"Author": {
-		"Id" : "", 
-		"Name": "",
+		"Id" : "int", 
+		"Name": "string",
 		"Quotes": "Quote[]"
 	},
 	"Quote":{
-			"Id": "1",
+			"Id": "int",
 			"Author": "Author",
-			"Content": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
+			"Content": "string",
+			"SaidAt": "date",
+			"SaidBy": "string"
 		}
 }
