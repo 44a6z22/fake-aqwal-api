@@ -1,67 +1,14 @@
 {
-	"Quotes": [{
+	"Author": {
+		"Id" : "", 
+		"Name": "",
+		"Quotes": "Quote[]"
+	},
+	"Quote":{
 			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
-			"SaidAt": "",
-			"SaidBy": ""
-		},
-		{
-			"Id": "1",
-			"Author": "name",
-			"Quote": " ....... ",
+			"Author": "Author",
+			"Content": " ....... ",
 			"SaidAt": "",
 			"SaidBy": ""
 		}
-	]
-
 }
