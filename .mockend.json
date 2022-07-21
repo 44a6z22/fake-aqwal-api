@@ -24,7 +24,7 @@
 			"belongsTo": "Author"
 		},
 		"Content": {
-			"string": {}
+			"loremWords": { "minLength": 20, "maxLength": 50 }
 		},
 		"SaidAt": {
 			"dateTime": {
