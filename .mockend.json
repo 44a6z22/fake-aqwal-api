@@ -1,14 +1,14 @@
 {
 	"Author": {
-		"Id" : "int", 
-		"Name": "string",
+		"Id" : { "int": {}}, 
+		"Name": { "string": {}},
 		"Quotes": "Quote[]"
 	},
 	"Quote":{
-			"Id": "int",
+			"Id": { "int": {}},
 			"Author": "Author",
-			"Content": "string",
-			"SaidAt": "date",
-			"SaidBy": "string"
+			"Content": { "string": {}},
+			"SaidAt": { "string": {}},
+			"SaidBy": { "string": {}}
 		}
 }
