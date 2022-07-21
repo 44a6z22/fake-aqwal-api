@@ -15,7 +15,10 @@
 	},
 	"Quote": {
 		"Id": {
-			"int": {}
+			"int": {
+				"max": 999999,
+				"min": 1
+			}
 		},
 		"Author": "Author",
 		"Content": {
