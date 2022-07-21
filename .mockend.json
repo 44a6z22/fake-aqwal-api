@@ -10,7 +10,7 @@
 			"string": {}
 		},
 		"Quotes": {
-			"belongsTo": "Quote"
+			"hadMany": "Quote"
 		}
 	},
 	"Quote": {
